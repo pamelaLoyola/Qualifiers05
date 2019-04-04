@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Qualifiers05</string>
+    <string name="main_nombres_apellidos">Nombres y Apellidos</string>
+    <string name="main_especialidad">Especialidad</string>
+</resources>

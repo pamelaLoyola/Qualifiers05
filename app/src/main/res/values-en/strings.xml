@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Qualifier05</string>
+    <string name="main_nombres_apellidos">Fullname</string>
+    <string name="main_especialidad">Specialty</string>
+</resources>
